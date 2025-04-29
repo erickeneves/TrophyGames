@@ -22,7 +22,7 @@ Trophy Games é um site dedicado a amantes de jogos, oferecendo informações so
 ## 🛠️ Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/TrophyGames.git
+   git clone https://github.com/erickeneves/TrophyGames.git
    
 🙌 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
