@@ -23,32 +23,7 @@ Trophy Games é um site dedicado a amantes de jogos, oferecendo informações so
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/TrophyGames.git
-2. Abra o arquivo index.html no navegador para acessar a página inicial.
-
-📂 Estrutura de Arquivos
-TrophyGames/
-├── css/
-│   ├── estilo.css
-│   ├── estilo2.css
-│   └── Apresentação.css
-├── jogos/
-│   ├── trophy.png
-│   ├── Super Games Line.jpg
-│   ├── Metal_Gear_Rising_capa.png
-│   ├── Metacritic_M.png
-│   ├── metacritic mgr.png
-│   ├── dificuldade mgr.png
-│   └── 5192.gif
-├── músicas/
-│   ├── Metal Gear Rising_ Revengeance - The Hot Wind Is Blowing Extended.mp3
-│   └── Metal Gear Rising_ Revengeance OST - Red Sun Extended.mp3...
-├── index.html
-├── MGR.html...
-├── jogos.html
-├── rpg.html
-├── luta.html
-└── terror.html
-
+   
 🙌 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
 
